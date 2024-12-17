@@ -1,2 +1,2 @@
 # Week 3
-* in this week i learned about dom and maked a small todo app for practice 
+This week, I learned about the DOM and created a small To-Do app for practice.
